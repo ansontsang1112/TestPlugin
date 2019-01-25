@@ -1,0 +1,15 @@
+name: TestPlugin
+main: com.ericlam.mc.main.TestPlugin
+version: 0.0.1
+authors: [Eric Lam]
+commands:
+  fuck:
+    description: fuck people
+  fly:
+    aliases: [fuckfly, flyfly]
+    description: fly
+  testreload:
+    description: reload command
+permissions:
+  fuck.perm:
+    description: fuck perm

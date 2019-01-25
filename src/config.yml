@@ -1,0 +1,8 @@
+join-msg: "&a<player> joined the shitty games"
+fuck:
+  msg: "&efuck you too!!!"
+  no-perm-msg: "&c no permission"
+fly:
+  msg: "&ayou are flying now!"
+  not-msg: "&cyou are not flying now!"
+reload: "&aReload Success!"
